@@ -27,7 +27,7 @@ In the HACS panel, navigate to `Integrations` and click on the three dots in the
 
 1.2 Manually
 
-Clone the [repository](https://github.com/PinoutLTD/rrs-ha-integration) and copy `custom_components` folder to your Home Assistant config directory.
+Clone the [repository](https://github.com/PinoutLimited/rrs-ha-integration) and copy `custom_components` folder to your Home Assistant config directory.
 
 **2. Restart Home Assistant to load the integration into Home Assistant.**
 

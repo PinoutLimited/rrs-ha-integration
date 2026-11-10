@@ -11,7 +11,7 @@
     "tenacity==8.5.0"
   ],
   "documentation": "https://wiki.robonomics.network/",
-  "issue_tracker": "https://github.com/PinoutLTD/rrs-ha-integration/issues",
+  "issue_tracker": "https://github.com/PinoutLimited/rrs-ha-integration/issues",
   "integration_type": "service",
   "iot_class": "cloud_push"
 }
